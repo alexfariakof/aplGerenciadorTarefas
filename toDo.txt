@@ -1,0 +1,3 @@
+Criação da Arquitetura do Projero
+Criação do SGBD_Local
+Subir projeto para GitHub
