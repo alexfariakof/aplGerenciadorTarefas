@@ -1,0 +1,4 @@
+C:\aplGerenciadorTarefas\slGerenciadorTarefas\GerenciadorDeTarefas.BackEnd.VO\bin\Debug\GerenciadorDeTarefas.BackEnd.VO.dll
+C:\aplGerenciadorTarefas\slGerenciadorTarefas\GerenciadorDeTarefas.BackEnd.VO\bin\Debug\GerenciadorDeTarefas.BackEnd.VO.pdb
+C:\aplGerenciadorTarefas\slGerenciadorTarefas\GerenciadorDeTarefas.BackEnd.VO\obj\Debug\GerenciadorDeTarefas.BackEnd.VO.dll
+C:\aplGerenciadorTarefas\slGerenciadorTarefas\GerenciadorDeTarefas.BackEnd.VO\obj\Debug\GerenciadorDeTarefas.BackEnd.VO.pdb
